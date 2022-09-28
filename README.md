@@ -5,4 +5,4 @@ The Drivly Open Philosophy
 2. [Create Amazing Developer Experiences](amazing-developer-experiences.md)
 3. [Everything Must Have an API](/everything-must-have-an-api.md)
 4. [Communicate through APIs not Meetings](/communicate-through-apis-not-meetings.md)
-5. [APIs Should Do One Thing, and Do It Well](/open/apis-do-one-thing.md)
+5. [APIs Should Do One Thing, and Do It Well](/apis-do-one-thing.md)
