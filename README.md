@@ -1,5 +1,4 @@
-# philosophy.do
-The Drivly Open Philosophy
+# The Drivly Open Philosophy
 
 1. [Build in Public](/build-in-public.md)
 2. [Create Amazing Developer Experiences](amazing-developer-experiences.md)
